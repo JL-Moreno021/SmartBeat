@@ -2,3 +2,5 @@
 
 ## Main Hub
 > Functions
+
+-[] Host server

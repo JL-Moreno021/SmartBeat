@@ -1,1 +1,4 @@
 # SmartBeat
+
+## Main Hub
+> Functions

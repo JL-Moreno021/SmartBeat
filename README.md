@@ -2,5 +2,4 @@
 
 ## Main Hub
 > Functions
-
--[] Host server
+[] Host server
